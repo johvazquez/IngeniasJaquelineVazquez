@@ -1,0 +1,10 @@
+Vamos a proyectar para los próximos meses del 2023 lo siguientes puntos:
+1) Clientes que van a pautar más por mes y país.
+2) Existencia de una correlación entre facturación e inversión.
+   3 Paises con mayor facturación (cantidad de facturas).
+   3 Paises con mayor inversión.
+4) Existencia de una correlación entre inversión y comisión
+5) Ejecutivo de ventas que tendrá mayores ventas 
+6) Buscar los cambios de clientes por agencia y si hay una relación por inversión
+7) Investigar si los clientes con mayores inversiones están relacionadas con la agencia.
+8) Proyectar las inversiones para los próximos meses del 2023 (agosto - diciembre) observando 2019,2020,2021,2022
